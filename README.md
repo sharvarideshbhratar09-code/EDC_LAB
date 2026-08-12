@@ -1,11 +1,10 @@
-# Practical 01 – Control Home Appliances with BJT and IR Sensor
+# Practical 01 – Design a transistor biasing circuit and analyze the same.
 
 ## Aim
-Design a circuit to control home appliances with the help of BJT  and IR Sensor.
+Design a transistor biasing circuit. I designed a Collector-Base Biasing Circuit
 
 ## Components Required
 - Breadboard
-- BJT
 - Connecting wires
 - LED
 - Resistors
